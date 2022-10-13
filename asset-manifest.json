@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Click-counter/static/css/main.367e6ae0.css",
+    "main.js": "/Click-counter/static/js/main.64117705.js",
+    "static/media/logo.png": "/Click-counter/static/media/logo.bbb5d969bd29770b8885.png",
+    "index.html": "/Click-counter/index.html",
+    "main.367e6ae0.css.map": "/Click-counter/static/css/main.367e6ae0.css.map",
+    "main.64117705.js.map": "/Click-counter/static/js/main.64117705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367e6ae0.css",
+    "static/js/main.64117705.js"
+  ]
+}
